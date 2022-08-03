@@ -1,0 +1,53 @@
+.header{
+    background-color: black;
+    padding: 16px;
+
+}
+.uzair_brand{
+    text-align: start;
+}
+.Brand_link{
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: none;
+}
+.cart_link{
+    font-size: small;
+    color: white;
+    text-decoration: none;
+}
+.heading{
+    text-align: center;
+}
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.img{
+    width: 300px;
+    height: 400px;
+}
+.items{
+    border: solid grey 0.1px;
+    margin: 16px;
+}
+
+
+/* .button_cart{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+} */
+
+
+
+/* 
+.footer{
+    min-height: 100vh;
+}
+.main{
+    flex: 1;
+} */
+

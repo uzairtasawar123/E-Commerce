@@ -1,0 +1,8 @@
+.checkbar > div{
+    border-bottom: 3px solid grey;
+    color: grey;
+}
+.checkbar > div.active{
+    border-bottom: 3px solid orange;
+    color: orange;
+}
